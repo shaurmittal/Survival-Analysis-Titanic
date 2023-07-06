@@ -1,2 +1,1 @@
-# Survival-Analysis-Titanic_-Shaurya
-yay
+Titanic Surival Prediction
